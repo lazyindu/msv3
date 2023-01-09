@@ -5,16 +5,16 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
+    API_ID = int(os.getenv("API_ID", "13323016"))
+    API_HASH = os.getenv("API_HASH", "68e791e616100248b0a53ae86a661a12")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5873898956:AAGpx17veXfAyyKh8F_0XWALUkytpEAje04")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "lazydev")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOLoBu2qwcmFtZiiQeanAm9DmpdIFYCditPTNrXPZscMbcwqJzq2dIKDw9UWRVtoNBhK6h5__RhE14shzIH7O0UBLJCrjqK3CjJhZdxRQ8M-GQghPHmiIpJARbrzCD5t0lPDzKdsF6PxZwHMX6DDj5CNmEAyZXSwSBEPwGYNXcIpjLRwSIjqbVXWPjswNq-NOpUY3lD48iK3-P0o-4mqzSFoelaHWCJq9_yYaDXNgRLZ8emux4WwnB-6uTWINao2ZUQ9zNv4HZG89odXtJF6D5ES_7v5-VCeh9u8moVp6X_KyD2Gox2eBUP2el2isrSHb_RZLIFvp_HSp0XVOoD2JPm7AyCg=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001808387808")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "hhelloi878bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "1484670284"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "LazyDeveloperr")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "real_MoviesAdda1")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
@@ -45,7 +45,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.
 
-ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @CyniteSupport 🤖""" )
+ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ 🤖""" )
     ABOUT_WATCH_TEXT = """
 ʜᴇʏ ʙᴜᴅᴅʏ, 
 
